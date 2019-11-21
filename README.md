@@ -2,7 +2,7 @@
 Memory Limiter allows you to limit memory usage of a function.
 
 ## Usage
-```
+```python3
 from collections import Counter
 
  # Limits memory usage to 1mb, if function uses more than that, it raises MemoryUsageExceeded exception
